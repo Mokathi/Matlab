@@ -1,0 +1,34 @@
+#main{
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    width: 75%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+}
+body{
+    background-color: rebeccapurple;
+}
+button{
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 5px;
+}
+img{
+    width: 30px;
+    height: 200px;
+}
+#details{
+    padding-left: 75px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+h1{
+    color: rebeccapurple;
+    font-family: sans-serif;
+}
+#description{
+    color: rebeccapurple;
+}
